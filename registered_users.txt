@@ -1,0 +1,27 @@
+Kravchuk Taras,sabaka@gmail.com,123456
+Kravc_du46,tehnosvittt555ttt@gmail.com,123456
+Antoha,niger2d@gmail.com,123456
+admin,admin@example.com,123456
+tskravchuk,capibara223@gmail.com,123456
+CyberNoga,capibara323@gmail.com,123456
+Vova228,vavanych228@gmail.com,1234567
+Venia,VeniaAntonovich@gmail.com,123456
+
+admin,admin@example.com,123456
+admin,admin@example.com,123456
+admin,admin@example.com,123456
+admin,admin@example.com,123456
+Valentin,ValentinValentinovich@gmail.com,123456
+admin,admin@example.com,123456
+admin,admin@example.com,123456
+admin,admin@example.com,123456
+admin,admin@example.com,123456
+admin,admin@example.com,123456
+admin,admin@example.com,123456
+admin,admin@example.com,123456
+admin,admin@example.com,123456
+admin,admin@example.com,123456
+admin,admin@example.com,123456
+admin,admin@example.com,123456
+admin,admin@example.com,1234567
+admin,admin@example.com,123456

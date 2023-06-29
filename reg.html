@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" rel="preconnect" href="https://fonts.gstatic.com" crossorigin href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+</head>
+<body>
+
+
+  <form method="post" action="register.php" class="form">
+    <h1 class="form-title">Registration</h1>
+    <input type="text" name="username" placeholder="Name" required class="form-input">
+    <input type="email" name="email" placeholder="E-mail" required class="form-input">
+    <input type="password" name="password" placeholder="Password" required class="form-input">
+    <button type="submit" class="form-button">Register</button>
+  </form>
+
+<div id="registrationMessage"></div>
+
+<style>
+
+  body{
+    background-image: url('/images/back.jpg');
+    background-size: cover;
+    background-position: center;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh
+  }
+  .form-title{
+    color: #858383;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+  }
+
+.form {
+  width: 415px;
+  height: 400px;
+  margin: 0 auto;
+  border: 1px solid #ffffff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.form-input {
+  display: block;
+  width: 90%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-top: 40px;
+}
+
+.form-button {
+  font-size: 14px;
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #233ed6;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 70px;
+}
+
+.form-button:hover {
+  background-color: #334cdb;
+}
+</style>
+    
+</body>
+</html>
